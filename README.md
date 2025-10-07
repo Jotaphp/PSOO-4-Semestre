@@ -44,3 +44,5 @@ Este sistema permitirá que os usuários clientes, ou seja, funcionários em ger
 | Guilherme dos Santos Damascena. | [@damascenagui](https://github.com/damascenagui) | Developer Team 👩‍💻. |
 | Micaias Leonardo Costa Viola. | [@micaiasviola](https://github.com/micaiasviola) | Developer Team 👩‍💻. |
 | João Lucas Alves Gregorio. | [@Jotaphp](https://github.com/Jotaphp) | Developer Team 👩‍💻. |
+
+## Estrutura do Sistema
