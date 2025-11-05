@@ -11,7 +11,7 @@ Projetar e desenvolver um sistema integrado baseado em Inteligência Artificial 
 Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente todas as requisições são recebidas por e-mail ou telefone, o que gera dificuldades no controle dos chamados, atrasos e falhas da priorização. A empresa deseja adotar um sistema integrado, no qual os colaboradores possam registrar suas solicitações e a IA possa sugerir soluções automáticas ou encaminhar ao técnico adequado com base no histórico de chamados e complexidade do problema.
 
 
-## 📝 [Backlog de Produto](https://github.com/vanessascarin/helpbox-psoo/blob/main/Product%20Backlog.md) 📝
+## 📝 [Backlog de Produto](https://github.com/Jotaphp/PSOO-4-Semestre/blob/main/PRODUCT%20BACKLOG%20v3.pdf) 📝
 
 ## 📈[Cronograma de evolução do Projeto](https://github.com/vanessascarin/helpbox-psoo/blob/main/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Burndown%20Chart.md) 📈
 
