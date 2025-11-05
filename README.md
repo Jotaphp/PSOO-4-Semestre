@@ -4,20 +4,20 @@
 
 <div align="center"> <h1> HelpBox - Projeto de Sistemas Orientado a Objetos </h1> </div>
 
-## 🎯 Desafio (dor do Parceiro) 🎯
+## 🎯 Desafio
 
 Projetar e desenvolver um sistema integrado baseado em Inteligência Artificial para gerenciamento de chamados e suporte técnico, proporcionando uma experiência otimizada e centralizada para clientes, técnicos e administradores.
 
 Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente todas as requisições são recebidas por e-mail ou telefone, o que gera dificuldades no controle dos chamados, atrasos e falhas da priorização. A empresa deseja adotar um sistema integrado, no qual os colaboradores possam registrar suas solicitações e a IA possa sugerir soluções automáticas ou encaminhar ao técnico adequado com base no histórico de chamados e complexidade do problema.
 
 
-## 📝 [Backlog de Produto](https://github.com/Jotaphp/PSOO-4-Semestre/blob/main/PRODUCT%20BACKLOG%20v3.pdf) 📝
+## 📝 [Backlog de Produto](https://github.com/Jotaphp/PSOO-4-Semestre/blob/main/PRODUCT%20BACKLOG%20v3.pdf) 
 
-## 📈[Cronograma de evolução do Projeto](https://github.com/vanessascarin/helpbox-psoo/blob/main/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Burndown%20Chart.md) 📈
+## 📈[Cronograma de evolução do Projeto](https://github.com/vanessascarin/helpbox-psoo/blob/main/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Burndown%20Chart.md) 
 
-## 📆 [Sprint Backlog](https://github.com/vanessascarin/helpbox-psoo/blob/main/Sprint%20Backlog.md) 📆
+## 📆 [Sprint Backlog](https://github.com/vanessascarin/helpbox-psoo/blob/main/Sprint%20Backlog.md) 
 
-## 💻 Tecnologias Utilizadas 💻
+## 💻 Tecnologias Utilizadas 
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://astah.net/"><img src="https://img.shields.io/badge/Astah-blue?style=for-the-badge&logo=uml&logoColor=white"/></a>
 <a href="https://www.w3schools.com/js"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></a>
@@ -28,13 +28,13 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
 <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
 
-## ⚙️ [Estrutura do projeto](https://github.com/vanessascarin/helpbox-psoo/blob/main/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Estrutura%20do%20Projeto.md) ⚙️
+## ⚙️ [Estrutura do projeto](https://github.com/vanessascarin/helpbox-psoo/blob/main/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Estrutura%20do%20Projeto.md) 
 
-## ⏯️ [Como executar, usar e testar o projeto](https://github.com/vanessascarin/helpbox-psoo/blob/main/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Executar%20o%20Projeto.md) ⏯️
+## ⏯️ [Como executar, usar e testar o projeto](https://github.com/vanessascarin/helpbox-psoo/blob/main/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Executar%20o%20Projeto.md) 
 
-## 💼 [Pasta de Documentação (DoR, DoD e Manual de Usuário)](https://github.com/vanessascarin/helpbox-psoo/tree/main/Pasta%20de%20Documenta%C3%A7%C3%A3o) 💼
+## 💼 [Pasta de Documentação (DoR, DoD e Manual de Usuário)](https://github.com/vanessascarin/helpbox-psoo/tree/main/Pasta%20de%20Documenta%C3%A7%C3%A3o) 
 
-## 💻 Equipe 💻
+## 💻 Equipe 
 
 | Nome     | GitHub | Função     |
 |----------|--------|------------|
