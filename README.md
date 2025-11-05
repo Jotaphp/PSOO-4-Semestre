@@ -13,9 +13,9 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 
 ## 📝 [Backlog de Produto](https://github.com/Jotaphp/PSOO-4-Semestre/blob/main/PRODUCT%20BACKLOG%20v3.pdf) 
 
-## 📈[Cronograma de evolução do Projeto](https://github.com/vanessascarin/helpbox-psoo/blob/main/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Burndown%20Chart.md) 
+## 📈[Cronograma de evolução do Projeto](https://github.com/Jotaphp/PSOO-4-Semestre/blob/main/Itens%20do%20Projeto/Evolu%C3%A7%C3%A3o.md) 
 
-## 📆 [Sprint Backlog](https://github.com/vanessascarin/helpbox-psoo/blob/main/Sprint%20Backlog.md) 
+## 📆 [Sprint Backlog](https://github.com/Jotaphp/PSOO-4-Semestre/blob/main/Itens%20do%20Projeto/Sprints.md) 
 
 ## 💻 Tecnologias Utilizadas 
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -28,11 +28,11 @@ Uma empresa de médio porte possui um setor de TI responsável por atender solic
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
 <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
 
-## ⚙️ [Estrutura do projeto](https://github.com/vanessascarin/helpbox-psoo/blob/main/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Estrutura%20do%20Projeto.md) 
+## ⚙️ [Estrutura do projeto](https://github.com/Jotaphp/PSOO-4-Semestre/blob/main/Itens%20do%20Projeto/Estrutura.md) 
 
-## ⏯️ [Como executar, usar e testar o projeto](https://github.com/vanessascarin/helpbox-psoo/blob/main/Burndown%20Chart%2C%20Estrutura%20e%20Execu%C3%A7%C3%A3o/Executar%20o%20Projeto.md) 
+## ⏯️ [Como executar, usar e testar o projeto](https://github.com/Jotaphp/PSOO-4-Semestre/blob/main/Itens%20do%20Projeto/Execu%C3%A7%C3%A3o.md) 
 
-## 💼 [Pasta de Documentação (DoR, DoD e Manual de Usuário)](https://github.com/vanessascarin/helpbox-psoo/tree/main/Pasta%20de%20Documenta%C3%A7%C3%A3o) 
+## 💼 [Pasta de Documentação (DoR, DoD)](https://github.com/Jotaphp/PSOO-4-Semestre/blob/main/Itens%20do%20Projeto/Documenta%C3%A7%C3%A3o.md) 
 
 ## 💻 Equipe 
 
